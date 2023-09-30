@@ -12,7 +12,7 @@ I'm a third-year bachelor student aiming to enrich my practical knowledge in the
 - 🛠 Skills include Java, PHP, Haskell, SQL, Python, Git, WordPress-plugin development (PHP), CSS, HTML, Javascript, REST API, and Composer.
 - 🤝 I value teamwork, clear client communication, and a strong technical community within a workplace.
 - 📫 Reach me at: sebastianjacmatt@gmail.com
-- 🌐 Check out my [LinkedIn](https://www.linkedin.com/in/sebastian-jacobsen-matthews)
+- 🌐 Check out my [LinkedIn](linkedin.com/in/sebastian-jacobsen-matthews-0781bb197)
 
 #### Experience
 - **CCB Subsea / Summer Jobs**
